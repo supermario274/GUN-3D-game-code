@@ -1,4 +1,4 @@
-
+//need to import three.js
   (function () {
     // Basic setup
     const scene = new THREE.Scene();
